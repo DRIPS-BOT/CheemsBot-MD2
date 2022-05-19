@@ -17,22 +17,22 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'BagasPrdn', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.owner = ['918188019676']
+global.premium = ['918188019676']
+global.ownernomer = '918188019676'
+global.ownername = 'DRIPS ORG'
+global.botname = 'DRIPS BOT'
+global.footer = 'ZIM BOT INC.'
+global.ig = 'https://github.com/DRIPS-BOT'
+global.region = 'India'
+global.sc = 'I am Not Giving You,🙃'
+global.myweb = 'https://youtube.com/c/DRIPSOFC'
+global.packname = 'Drips Bot'
+global.author = 'DRIPS-BOT'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
