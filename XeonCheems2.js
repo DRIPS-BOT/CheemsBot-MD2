@@ -1805,7 +1805,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 Cheems Bot Broadcast 」\n\n${text}`
+                      let txt = `「 Drips Bot Broadcast 」\n\n${text}`
                       XeonBotInc.send5ButImg(yoi, txt, XeonBotInc.user.name, global.thumb, btn)
 		}
 		reply('Broadcast Success')
@@ -3290,7 +3290,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Cheems Bot With You Forever 
+┌┤✑  Drips Bot With You Forever 
 ││✑  🐶🖐️!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
